@@ -1,1 +1,0 @@
-sol.pattern2(N)
